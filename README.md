@@ -1,7 +1,5 @@
 # MC2 - Monte Carlo Fuzzing Implementation
 
-The code corresponding to our paper's algorithms is provided here to aid conceptual understanding. Let me know if you have any questions. Thanks for your interest!
-
 ## Prerequisites
 
 Make sure you have the following dependencies installed:
@@ -140,6 +138,3 @@ make monteCarloExecution
 make noisyBinarySearch
 ```
 
----
-
-*This research implementation showcases Monte Carlo-based fuzzing techniques for systematic exploration of program execution paths.*

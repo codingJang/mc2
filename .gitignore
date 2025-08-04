@@ -1,0 +1,7 @@
+build/
+onebyte_test
+*.o
+
+# Temporary files created by Python bindings
+tmp*.txt
+tmp*.policy
